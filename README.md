@@ -1,0 +1,1 @@
+NextJS/Python app that lets you add you whoop data and get personalized advice via an LLM that uses your data as the source of truth, and falling back to their internal knowledge when the ansewr can't be inferred from your own personal data
